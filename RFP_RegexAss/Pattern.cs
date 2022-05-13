@@ -20,10 +20,17 @@ namespace RFP_RegexAss
         {
             return Regex.IsMatch(lastname, REGEX_LASTNAME);
         }
+
         public static string REGEX_EMAIL = "^[0-9a-zA-Z]+([+#%&_.][a-zA-Z0-9]+)*[@][a-zA-Z]{2,}[.][a-zA-Z]{2,3}([.][a-zA-Z]{2})?$";
         public bool validateEmail(string email)
         {
             return Regex.IsMatch(email, REGEX_EMAIL);
+        }
+
+        public static string REGEX_PHONENO = "^[1-9]{2}[ ][6-9][0-9]{9}$";
+        public bool validatePhoneNo(string phoneno)
+        {
+            return Regex.IsMatch(phoneno, REGEX_PHONENO);
         }
     }
 }
