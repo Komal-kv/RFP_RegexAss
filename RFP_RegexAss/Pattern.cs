@@ -33,7 +33,7 @@ namespace RFP_RegexAss
             return Regex.IsMatch(phoneno, REGEX_PHONENO);
         }
 
-        public static string REGEX_PASSWORD = "^[A-Z][A-Za-z]{8,}$";
+        public static string REGEX_PASSWORD = "^[A-Z][A-Za-z0-9]{8,}$";
         public bool validatePassword(string password)
         {
             return Regex.IsMatch(password, REGEX_PASSWORD);
