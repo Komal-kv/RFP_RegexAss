@@ -28,9 +28,15 @@ namespace RFP_RegexAss
         }
 
         public static string REGEX_PHONENO = "^[1-9]{2}[ ][6-9][0-9]{9}$";
-        public bool validatePhoneNo(string phoneno)
+        public bool validatePhonNo(string phoneno)
         {
             return Regex.IsMatch(phoneno, REGEX_PHONENO);
+        }
+
+        public static string REGEX_PASSWORD = "^[A-Za-z]{8,}$";
+        public bool validatePassword(string password)
+        {
+            return Regex.IsMatch(password, REGEX_PASSWORD);
         }
     }
 }
