@@ -7,3 +7,4 @@ Console.WriteLine( );
 Pattern patterns = new Pattern();
 Console.WriteLine(patterns.validateFirstName("Komal"));
 Console.WriteLine(patterns.validateLastName("Vairagade"));
+Console.WriteLine(patterns.validateEmail("divyavairagade@gmail.com"));
