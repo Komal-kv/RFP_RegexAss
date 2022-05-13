@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\bin\Debug\net6.0\RFP_RegexAss.exe
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\bin\Debug\net6.0\RFP_RegexAss.deps.json
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\bin\Debug\net6.0\RFP_RegexAss.runtimeconfig.json
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\bin\Debug\net6.0\RFP_RegexAss.dll
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\bin\Debug\net6.0\RFP_RegexAss.pdb
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\RFP_RegexAss.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\RFP_RegexAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\RFP_RegexAss.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\RFP_RegexAss.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\RFP_RegexAss.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\RFP_RegexAss.dll
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\refint\RFP_RegexAss.dll
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\RFP_RegexAss.pdb
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\RFP_RegexAss.genruntimeconfig.cache
+C:\Users\Admin\source\repos\RFP_RegexAss\RFP_RegexAss\obj\Debug\net6.0\ref\RFP_RegexAss.dll
