@@ -14,5 +14,11 @@ namespace RFP_RegexAss
         {
             return Regex.IsMatch(firstname, REGEX_FIRSTNAME);
         }
+
+        public static string REGEX_LASTNAME = "^[A-Z][a-z]{3,}$";
+        public bool validateLastName(string lastname)
+        {
+            return Regex.IsMatch(lastname, REGEX_LASTNAME);
+        }
     }
 }
